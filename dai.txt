@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 asdfasfasd
 <<<<<<< HEAD
+<<<<<<< HEAD
 Do Dinh Dai dep trai
 asdfsdaa
 sadfasd
@@ -10,5 +11,7 @@ Toi la dinh dai
 =======
 <!DOCTYPE html>
 >>>>>>> parent of d91b71d... ABC changed
+=======
+>>>>>>> parent of 3edfb12... thay doi
 =======
 >>>>>>> parent of 3edfb12... thay doi
