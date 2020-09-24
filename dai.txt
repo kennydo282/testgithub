@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 asdfasfasd
 Do Dinh Dai dep trai
 asdfsdaa
 sadfasd
+=======
+<!DOCTYPE html>
+>>>>>>> parent of d91b71d... ABC changed
